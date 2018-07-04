@@ -3,7 +3,7 @@ public class DoubleLetters {
         String s=" Doouble letterrz letters are prevalent!";
         int c=0;
         int pos=0;
-        char k='0',l='0',p='0';
+        char k='0';
         boolean flag=true;
         for(int i=0;i<s.length();i++)
         {
